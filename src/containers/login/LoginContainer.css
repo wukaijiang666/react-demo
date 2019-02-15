@@ -1,0 +1,24 @@
+/*居中:绝对定位和负边距*/
+#loginDiv {
+    border: 1px solid rgba(0, 0, 0, .25);
+    border-radius: 5px;
+    width: 400px;
+    height: 310px;
+    padding: 10px 30px 30px 30px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-left: -200px;
+    margin-top: -124px;
+    /*background-image: url(/src/static/images/timg.jpg);*/
+}
+
+/*forgot文字样式*/
+#loginDiv #loginFormDiv a.login-form-forgot {
+    float: right;
+}
+
+/*按钮样式*/
+#loginDiv #loginFormDiv button.login-form-button {
+    width: 100%;
+}

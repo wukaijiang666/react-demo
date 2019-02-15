@@ -1,0 +1,24 @@
+/*Home组件content样式*/
+#homeContent{
+    background-color: #fff;
+    width: 100%;
+}
+/*Home组件svg图标样式*/
+#homeDiv svg{
+    width: 180px;
+    height: 80px;
+    color: #fff;
+    margin: 10px 0;
+}
+/*Home组件Col样式*/
+#homeDiv .colStyle{
+    /*padding: 0;*/
+}
+/*Home组件Card样式*/
+#homeDiv .cardStyle{
+    width: 180px;
+    height: 215px;
+    margin: 8% auto;
+    cursor: pointer;
+    border-radius: 5px;
+}

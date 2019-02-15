@@ -1,0 +1,42 @@
+/*!* 详情标题样式 *!*/
+/*.assignment_detail_title{*/
+  /*color: cornflowerblue;*/
+  /*font-weight: bolder;*/
+  /*background-color: #f6f6f8;*/
+  /*padding-left: 15px;*/
+  /*padding-top: 8px;*/
+  /*padding-bottom: 8px;*/
+/*}*/
+/*!* 详情表格样式 *!*/
+/*.detail_table{*/
+  /*width: 100%;*/
+  /*border: 1px solid rgb(226,226,226);*/
+  /*border-image: initial;*/
+  /*margin: 5px 0*/
+/*}*/
+/*!* 详情表格td样式 *!*/
+/*.detail_table td{*/
+  /*padding: 5px 10px;*/
+  /*border: 1px solid #e2e2e2;*/
+  /*white-space: pre-wrap;*/
+  /*word-break: break-all;*/
+/*}*/
+/*!* 详情表格字段名称样式 *!*/
+/*.detail_table_title{*/
+  /*width: 20%;*/
+  /*font-weight: 600;*/
+  /*font-size: 12px;*/
+  /*background-color: #f4f6f8;*/
+  /*border: 1px solid #e2e2e2;*/
+/*}*/
+/*!* 详情表格字段内容样式 *!*/
+/*.detail_table_content{*/
+  /*width: 150px;*/
+/*}*/
+/*!* 详情表格列表名称样式 *!*/
+/*.detail_table_list{*/
+  /*width: 150px;*/
+  /*font-weight: 600;*/
+  /*font-size: 14px;*/
+  /*background-color: #f4f6f8;*/
+/*}*/
